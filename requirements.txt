@@ -1,0 +1,13 @@
+tensorflow
+google-colab
+scikit-lear
+opencv-python
+matplotlib
+pandas
+jupyter
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+pillow
